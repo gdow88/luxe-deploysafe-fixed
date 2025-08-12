@@ -1,0 +1,8 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next { height: 100%; }
+body { background-color: #0B0B0C; }
+.font-serif { font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif; }
